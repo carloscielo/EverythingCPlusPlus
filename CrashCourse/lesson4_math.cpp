@@ -15,6 +15,7 @@ int main () {
 // Division, with floating point calc:
     ////below is demonstrated that to divide at least one number divided must be a double
     ////to use the modulus for the remainder all numbers must be ints.
+    ////IMPORTANT INTEGER DIVISION in C++ IS ALWAYS 0
     //double g = y;
     //double p = x/g;   
     //std::cout << "the quotient is p = " << p << std::endl;
