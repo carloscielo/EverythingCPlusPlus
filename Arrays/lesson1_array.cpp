@@ -31,7 +31,16 @@ int main() {
     cout << prices[2] << '\n';
     cout << prices[3] << '\n';
   
-  
+    //the following line will end up being a pointer to the hexidecimal address
+    //of the first element
+    cout << cars << endl;
+
+        //the following line will end up being a pointer to the hexidecimal address
+    //of the second element
+    cout << cars+1 << endl;
+
+
+
     return 0;
 
 
