@@ -42,3 +42,6 @@
 
 # VSCode settings (local configuration)
 .vscode/
+
+# Interview Questions (personal practice)
+InterviewQuestions/
